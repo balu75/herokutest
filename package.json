@@ -1,0 +1,25 @@
+{
+  "name": "herokutest",
+  "version": "1.0.0",
+  "description": "a test for heroku",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/balu75/herokutest.git"
+  },
+  "keywords": [
+    "test",
+    "heroku",
+    "nodejs",
+    "expressjs"
+  ],
+  "author": "Thomas Gies",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/balu75/herokutest/issues"
+  },
+  "homepage": "https://github.com/balu75/herokutest#readme"
+}
